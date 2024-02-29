@@ -1,4 +1,10 @@
+
+
 # zatca
+
+https://www.youtube.com/watch?v=ELAk5bWK0Ac
+
+
 الفوترة الالكترونية للمرحلة الثانية كاملة ZATCA Integration Phase 2 الربط مع هيئة الزكاة
 
 معتمدين في مزودي الخدمة في هيئة الزكاة و الضريبة 

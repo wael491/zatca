@@ -11,7 +11,7 @@ https://www.youtube.com/watch?v=ELAk5bWK0Ac
 نقدم حلول كاملة لالية الربط مع هيئة الزكاه و الأنظمة المحاسبية
 
 #ZATCA    #Integration #phase2 
-
+ 
 
 واتس اب 966569155530
 We Are SDS Group solution provider with Zatca, and we finish all integration steps with Zatca Phase 2 requirements:

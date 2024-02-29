@@ -8,25 +8,21 @@
 
 
 واتس اب 966569155530
-
-
-
-We Are an SDS Group   provider with Zatca, and we finish all integration steps with Zatca Phase 2 requirements:
+We Are SDS Group solution provider with Zatca, and we finish all integration steps with Zatca Phase 2 requirements:
 First Part
-• Generate CSR
-• Generate compliace CSID
-• Generate Production CSID
-• onboarding 1 Device
-• clearing 1 B2B invoice
-• Reporting 1 B2C invoice
-Second part
-Development of the required screens on the AX system 2012 and 2009 development on the Ax 2012 POS system, or any other system to make the following:
-• onboard all the registers
-• make invoice reporting
-• develop the new QR code
-• Archiving and saving the generated invoices as XML
-
-
+•	Generate CSR
+•	Generate compliace CSID
+•	Generate Production CSID
+•	onboarding 1 Device
+•	clearing 1 B2B invoice
+•	Reporting 1 B2C invoice
+second part
+development of the required screens on the AX system 2012 and 2009 development on the Ax 2012 POS system, or any other system to make the following:
+•	onboard all the registers
+•	make invoice reporting
+•	develop the new QR code
+•	Archiving and saving the generated invoices as XML
+________________________________________
 ZATCA e-Invoicing Phase 2: Applicability, Rules and Regulations in Saudi Arabia
 e-Invoicing in Saudi Arabia (SA) was introduced as an extension of the economic renaissance and digital transformation. This initiative is in line with achieving positive results of raising consumer protection and reducing hidden economy transactions.
 Zakat, Tax and Customs Authority (ZATCA) or Authority issued the requirements, technical specifications, controls and procedural rules for implementing phase 2 of e-invoicing in SA. Also, it issued XML implementation standards; e-invoice security features implementation standard and data dictionary for Phase 2 that are effective from 1st January 2023.
@@ -49,3 +45,5 @@ Below are the few key changes made by the ZATCA in the XML implementation standa
 Amended the data fields between mandatory, conditional and optional Modified the business rules for validation of the XML invoices Revised the process on authentication of the taxpayer’s EGS with ZATCA Removed the categorisation of a Value Added Tax (VAT) identification number into a Group VAT number and individual VAT number Authority started notifying the phase 2 regulations with taxpayers under the first wave of the phase 2 e-invoicing regime. Also, it is expected that ZATCA will notify the next waves based on the taxpayer’s turnover, along with phase 2 implementation dates.
 Impact of Phase 2 of e-Invoicing on Businesses
 VAT registered businesses in Saudi Arabia having taxable supplies above SAR 3 billion during 2021 are required to implement Phase 2 of e-invoicing from 1st January 2023. Also, non-compliant businesses will be penalised as per the VAT legislation.
+Applicable businesses should comply with obligations under the phase 2 regulations as per the ZATCA’s notification. Also, they need to take relevant steps in making the required changes in their business and information technology landscape.
+
